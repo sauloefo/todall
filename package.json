@@ -1,0 +1,31 @@
+{
+  "name": "todall",
+  "version": "1.0.0",
+  "description": "Common componentes available to frontend and backend.",
+  "main": "./dist/Todo.js",
+  "types": "./dist/Todo.d.ts",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauloefo/todall.git"
+  },
+  "keywords": [
+    "todall",
+    "model",
+    "node.js",
+    "typescript"
+  ],
+  "author": "@sauloefo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauloefo/todall/issues"
+  },
+  "homepage": "https://github.com/sauloefo/todall#readme",
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "typescript": "^3.1.3"
+  }
+}
