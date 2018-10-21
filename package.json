@@ -1,6 +1,6 @@
 {
   "name": "todall",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Common componentes available to frontend and backend.",
   "main": "./dist/todo/Todo.js",
   "types": "./dist/todo/Todo.d.ts",
