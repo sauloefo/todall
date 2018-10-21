@@ -2,8 +2,8 @@
   "name": "todall",
   "version": "1.0.2",
   "description": "Common componentes available to frontend and backend.",
-  "main": "./dist/Todo.js",
-  "types": "./dist/Todo.d.ts",
+  "main": "./dist/todo/Todo.js",
+  "types": "./dist/todo/Todo.d.ts",
   "scripts": {
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
